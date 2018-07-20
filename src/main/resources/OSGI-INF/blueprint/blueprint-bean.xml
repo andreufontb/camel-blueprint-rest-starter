@@ -1,6 +1,6 @@
 <!-- https://github.com/apache/camel/blob/master/examples/camel-example-servlet-rest-blueprint/src/main/resources/OSGI-INF/blueprint/camel.xml -->
 <!-- https://github.com/camelinaction/camelinaction2/blob/master/chapter10/jetty-rest-security-karaf/src/main/resources/OSGI-INF/blueprint/rest-order.xml -->
-
+<!-- https://github.com/RedHatWorkshops/rider-auto-openshift/tree/master/rider-auto-rest -->
 
 <?xml version="1.0" encoding="UTF-8"?>
 <blueprint xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0" 
