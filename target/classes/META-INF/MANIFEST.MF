@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1532114666962
+Build-Jdk: 1.8.0_171
+Built-By: root
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint-bean.xml
+Bundle-ManifestVersion: 2
+Bundle-Name: A Camel Blueprint Route
+Bundle-SymbolicName: myGroupId.camel-blueprint-rest-starter
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: myGroupId;version="1.0.0"
+Import-Package: org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Originally-Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.5.0.201709291849
