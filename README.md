@@ -1,0 +1,1 @@
+# camel-blueprint-rest-starter
